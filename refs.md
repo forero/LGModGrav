@@ -87,7 +87,7 @@ eprint arXiv:1702.03940
 Publication Date:	
 02/2017
 
-* [Exploring the liminality: properties of haloes and subhaloes in borderline f(R) gravity(http://adsabs.harvard.edu/abs/2015MNRAS.452.3179S).  
+* [Exploring the liminality: properties of haloes and subhaloes in borderline f(R) gravity](http://adsabs.harvard.edu/abs/2015MNRAS.452.3179S).  
 Authors:	
 Shi, Difu; Li, Baojiu; Han, Jiaxin; Gao, Liang; Hellwing, Wojciech A.
 Affiliation:	
