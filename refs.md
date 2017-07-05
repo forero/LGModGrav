@@ -79,7 +79,7 @@ Monthly Notices of the Royal Astronomical Society, Volume 384, Issue 4, pp. 1459
 Publication Date:	
 03/2008
 
-* [Environmental screening of dark matter haloes in ](http://adsabs.harvard.edu/abs/2017arXiv170203940S).  
+* [Environmental screening of dark matter haloes in f(R) gravity](http://adsabs.harvard.edu/abs/2017arXiv170203940S).  
 Authors:	
 Shi, Difu; Li, Baojiu; Han, Jiaxin
 Publication:	
