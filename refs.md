@@ -1,5 +1,5 @@
 * [Orbits of massive satellite galaxies – II. Bayesian estimates of the Milky Way and Andromeda masses using high-precision astrometry and 
-cosmological simulations](http://adsabs.harvard.edu/abs/2017MNRAS.468.3428P) (Use this Bayesian method).
+cosmological simulations](http://adsabs.harvard.edu/abs/2017MNRAS.468.3428P) (Use this Bayesian method).  
 Authors:	
 Patel, Ekta; Besla, Gurtina; Mandel, Kaisey
 Publication:	
@@ -56,4 +56,14 @@ Publication:
 Monthly Notices of the Royal Astronomical Society, Volume 459, Issue 2, p.2237-2261 (MNRAS Homepage)
 Publication Date:	
 06/2016
+
+* [On the Mass of the Local Group](http://adsabs.harvard.edu/abs/2014ApJ...793...91G).  
+Authors:	
+González, Roberto E.; Kravtsov, Andrey V.; Gnedin, Nickolay Y.
+Affiliation:	
+AA(Department of Astronomy & Astrophysics, The University of Chicago, Chicago, IL 60637, USA; Kavli Institute for Cosmological Physics, The University of Chicago, Chicago, IL 60637, USA; Instituto de Astrofísica, Pontificia Universidad Católica de Chile, Santiago, Chile; regonzar@astro.puc.cl), AB(Department of Astronomy & Astrophysics, The University of Chicago, Chicago, IL 60637, USA; Kavli Institute for Cosmological Physics, The University of Chicago, Chicago, IL 60637, USA; Enrico Fermi Institute, The University of Chicago, Chicago, IL 60637, USA), AC(Department of Astronomy & Astrophysics, The University of Chicago, Chicago, IL 60637, USA; Kavli Institute for Cosmological Physics, The University of Chicago, Chicago, IL 60637, USA; Particle Astrophysics Center, Fermi National Accelerator Laboratory, Batavia, IL 60510, USA)
+Publication:	
+The Astrophysical Journal, Volume 793, Issue 2, article id. 91, 8 pp. (2014). (ApJ Homepage)
+Publication Date:	
+10/2014
 
