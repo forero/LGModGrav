@@ -87,4 +87,13 @@ eprint arXiv:1702.03940
 Publication Date:	
 02/2017
 
+* [Exploring the liminality: properties of haloes and subhaloes in borderline f(R) gravity(http://adsabs.harvard.edu/abs/2015MNRAS.452.3179S).  
+Authors:	
+Shi, Difu; Li, Baojiu; Han, Jiaxin; Gao, Liang; Hellwing, Wojciech A.
+Affiliation:	
+AA(Institute for Computational Cosmology, Department of Physics, Durham University, South Road, Durham DH1 3LE, UK difu.shi@durham.ac.uk), AB(Institute for Computational Cosmology, Department of Physics, Durham University, South Road, Durham DH1 3LE, UK), AC(Institute for Computational Cosmology, Department of Physics, Durham University, South Road, Durham DH1 3LE, UK), AD(Institute for Computational Cosmology, Department of Physics, Durham University, South Road, Durham DH1 3LE, UK; National Astronomical Observatories, Chinese Academy of Sciences, 20A Datun Road, Chaoyang District, Beijing 100012, China), AE(Institute for Computational Cosmology, Department of Physics, Durham University, South Road, Durham DH1 3LE, UK)
+Publication:	
+Monthly Notices of the Royal Astronomical Society, Volume 452, Issue 3, p.3179-3191 (MNRAS Homepage)
+Publication Date:	
+09/2015 
 
