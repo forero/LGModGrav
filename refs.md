@@ -1,7 +1,5 @@
 * [Orbits of massive satellite galaxies – II. Bayesian estimates of the Milky Way and Andromeda masses using high-precision astrometry and 
 cosmological simulations](http://adsabs.harvard.edu/abs/2017MNRAS.468.3428P) (Use this Bayesian method).
-Title:	
-Orbits of massive satellite galaxies – II. Bayesian estimates of the Milky Way and Andromeda masses using high-precision astrometry and cosmological simulations
 Authors:	
 Patel, Ekta; Besla, Gurtina; Mandel, Kaisey
 Publication:	
@@ -10,8 +8,6 @@ Publication Date:
 07/2017
 
 * [The dynamics of the Local Group as a probe of dark energy and modified gravity](http://adsabs.harvard.edu/abs/2017MNRAS.466.4813C).  
-Title:	
-The dynamics of the Local Group as a probe of dark energy and modified gravity
 Authors:	
 Carlesi, Edoardo; Mota, David F.; Winther, Hans A.
 Affiliation:	
@@ -22,8 +18,6 @@ Publication Date:
 04/2017
 
 * [Constraining the mass of the Local Group](http://adsabs.harvard.edu/abs/2017MNRAS.465.4886C).  
-Title:	
-Constraining the mass of the Local Group
 Authors:	
 Carlesi, Edoardo; Hoffman, Yehuda; Sorce, Jenny G.; Gottlöber, Stefan
 Affiliation:	
