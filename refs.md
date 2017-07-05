@@ -67,3 +67,24 @@ The Astrophysical Journal, Volume 793, Issue 2, article id. 91, 8 pp. (2014). (A
 Publication Date:	
 10/2014
 
+* [Masses for the Local Group and the Milky Way](http://adsabs.harvard.edu/doi/10.1111/j.1365-2966.2007.12748.x).  
+Title:	
+Masses for the Local Group and the Milky Way
+Authors:	
+Li, Yang-Shyang; White, Simon D. M.
+Affiliation:	
+AA(Kapteyn Astronomical Institute, PO Box 800, 9700 AV Groningen, the Netherlands), AB(Max-Planck-Institut für Astrophysik, Karl-Schwarzschild-Str. 1, D-85748 Garching bei München, Germany)
+Publication:	
+Monthly Notices of the Royal Astronomical Society, Volume 384, Issue 4, pp. 1459-1468. (MNRAS Homepage)
+Publication Date:	
+03/2008
+
+* [Environmental screening of dark matter haloes in ](http://adsabs.harvard.edu/abs/2017arXiv170203940S).  
+Authors:	
+Shi, Difu; Li, Baojiu; Han, Jiaxin
+Publication:	
+eprint arXiv:1702.03940
+Publication Date:	
+02/2017
+
+
