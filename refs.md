@@ -97,3 +97,10 @@ Monthly Notices of the Royal Astronomical Society, Volume 452, Issue 3, p.3179-3
 Publication Date:	
 09/2015 
 
+* [Dark matter haloes in modified gravity and dark energy: interaction rate, small- and large-scale alignment](http://adsabs.harvard.edu/abs/2017MNRAS.468.3174L).  
+Authors:	
+L'Huillier, Benjamin; Winther, Hans A.; Mota, David F.; Park, Changbom; Kim, Juhan
+Publication:	
+Monthly Notices of the Royal Astronomical Society, vol. 468, issue 3, pp. 3174-3183 (MNRAS Homepage)
+Publication Date:	
+07/2017 . 
