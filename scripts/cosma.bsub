@@ -1,0 +1,22 @@
+#!/bin/tcsh
+#
+#BSUB -L /bin/tcsh
+#BSUB -n 8
+#BSUB -q cosma
+#BSUB -P durham
+#BSUB -W 48:00
+#BSUB -oo lim_rock.log
+#BSUB -M 10000
+#BSUB -J lim_rock
+
+
+rm -f /gpfs/data/jeforero/LGModGrav/data/halos/GR/auto-rockstar.cfg
+/gpfs/data/jeforero/rockstar/rockstar  -c GR.cfg >& server.dat &
+perl -e 'sleep 1 while (!(-e "/gpfs/data/jeforero/LGModGrav/data/halos/GR/auto-rockstar.cfg"))'
+mpirun -np 8 /gpfs/data/jeforero/rockstar/rockstar  -c /gpfs/data/jeforero/LGModGrav/data/halos/GR/auto-rockstar.cfg 
+
+
+rm -f /gpfs/data/jeforero/LGModGrav/data/halos/FR6/auto-rockstar.cfg
+/gpfs/data/jeforero/rockstar/rockstar  -c FR6.cfg >& server.dat &
+perl -e 'sleep 1 while (!(-e "/gpfs/data/jeforero/LGModGrav/data/halos/GR/auto-rockstar.cfg"))'
+mpirun -np 8 /gpfs/data/jeforero/rockstar/rockstar  -c /gpfs/data/jeforero/LGModGrav/data/halos/FR6/auto-rockstar.cfg
