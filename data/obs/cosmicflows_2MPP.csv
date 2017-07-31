@@ -1,4 +1,4 @@
-#"The Catalogue of Principal Galaxies (PGC) Number","Apparent Ks 20 mag/as^2 isophote magnitude adjusted for cosmological surface brightness dimming, extinction, filter redshift response, and stellar evolution, as defined by Lavaux and Hudson","Velocity in Cosmic Microwave Background frame","LuminosityDistance","Number of distance sources","Right Ascension (J2000)","Declination (J2000)"
+#"The Catalogue of Principal Galaxies (PGC) Number","Apparent Ks 20 mag/as^2 isophote magnitude adjusted for cosmological surface brightness dimming, extinction, filter redshift response, and stellar evolution, as defined by Lavaux and Hudson","VelocityCMB","LuminosityDistance","Number of distance sources","Right Ascension (J2000)","Declination (J2000)"
 2,9.65,4739,,,,
 4,,,50.58,1,000003.5,+230515
 5,10.69,10044,,,,
